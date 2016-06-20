@@ -1,0 +1,14 @@
+- some base type (string or tree)
+- typed functions like go and type check when the functions are called
+- gen.fun() syntax for piping
+- pipes, generators, functions, closures
+- way to get signature from function, way to get definition string/tree from function
+- way to shell out (backticks as syntactic sugar?)
+- easy to implement but powerful modularity
+- if/else, ternary operators, while, for x in <iterator>
+- algol 68 ternary operators?
+- BASH CASE STATEMENTS
+- algol68 universal loops but also with in?
+- possible to define new namespaces, maybe namespace is like a function but something of the namespace type can redefine operators and similar, and a namespace must return? (so you can use it to cast?)
+- loops are go-style, with "for <guy> while <cond> {}" doing algol shit
+- slicing / range generation with some operator like .. or :

@@ -1,0 +1,10 @@
+: or .. for range and slicing
+[] for array namespace
+$$ for math namespace
+¢ comment delimeter
+.ass
+@{}/${}/!{}/etc for internal namespaces
+:: for long-form namespaces
+:= for creating new vars, = for assigning
+bool namespace gets >=, <=, <, >, =, !=, $=? (some string equals)
+
