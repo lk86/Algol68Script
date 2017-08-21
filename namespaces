@@ -1,0 +1,9 @@
+general overview of the namespace concept:
+    1- can implement interfaces, including default interfaces like returning
+        typed variables, unix-style piping, possibly network/file I/O
+    2- can provide different functionality in each of those contexts
+    3- can define arbitrary functions and act as a library
+    4- takes in code which uses custom operators/syntax, and outputs it in one
+        or more of the above ways
+    5- can define a struct and/or type and/or interfaces which can be exported
+        to the parent namespace and/or be used in code sent as input to the namespace
